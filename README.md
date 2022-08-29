@@ -5,5 +5,7 @@ A movie review database built on IBM Cloud. Uses IBM Cloudant NoSQL database and
 
 https://movies-reviews-database-kh.eu-gb.mybluemix.net/reviews
 
+On the home tab you can choose from a selection of movies and add a review. These are processed by the AI natural language understanding services in IBM Cloud and given a rank on sentiment/emotion.
+
 - Positive reviews are coloured green.
 - Negative reviews are coloured yellow.
